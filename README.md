@@ -9,7 +9,7 @@ You may find that the code is slightly overcommented for a project like this.
 https://github.com/user-attachments/assets/7f6a707e-ecb1-4a11-8fed-b85e109f332d
 
 
-> Wrote ~2000 lines
+> Wrote ~2000 lines. Please ignore the graphics, the functionality is what counts for this.
 
 One aspect of this project I found enjoyable to implement was having all these different files interact with each other in terms of their functions and data handling. By doing so, two things occurred:
 1. I was able to keep my entire game within one clean singular window instead of having multiple windows continuously close and pop up every time something new happened.
