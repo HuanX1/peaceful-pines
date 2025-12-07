@@ -4,7 +4,8 @@ This was a game coded entirely in Visual Studio and ![VB.NET](https://img.shield
 You may find that the code is slightly overcommented for a project like this.
 
 > I wrote a very large majority of this code within 48 hours across two all nighters right before it was due (I may have had a few Valorant breaks inbetween). Bad idea. Good result (I got an A*)
-> ~2000 lines
+
+> Wrote ~2000 lines
 
 One aspect of this project I found enjoyable to implement was having all these different files interact with each other in terms of their functions and data handling. By doing so, two things occurred:
 1. I was able to keep my entire game within one clean singular window instead of having multiple windows continuously close and pop up every time something new happened.
