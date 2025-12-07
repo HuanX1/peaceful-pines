@@ -1,0 +1,53 @@
+E:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.vbproj.AssemblyReference.cache
+E:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE_GAME.MainGame.resources
+E:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE_GAME.Resources.resources
+E:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.vbproj.GenerateResource.cache
+E:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.GeneratedMSBuildEditorConfig.editorconfig
+E:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.AssemblyInfoInputs.cache
+E:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.AssemblyInfo.vb
+E:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.vbproj.CoreCompileInputs.cache
+E:\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.exe
+E:\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.deps.json
+E:\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.runtimeconfig.json
+E:\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.dll
+E:\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.pdb
+E:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.dll
+E:\THE GAME\THE GAME\obj\Debug\net6.0-windows\refint\THE GAME.dll
+E:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.pdb
+E:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.genruntimeconfig.cache
+E:\THE GAME\THE GAME\obj\Debug\net6.0-windows\ref\THE GAME.dll
+D:\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.exe
+D:\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.deps.json
+D:\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.runtimeconfig.json
+D:\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.dll
+D:\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.pdb
+D:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.vbproj.AssemblyReference.cache
+D:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE_GAME.MainGame.resources
+D:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE_GAME.Resources.resources
+D:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.vbproj.GenerateResource.cache
+D:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.GeneratedMSBuildEditorConfig.editorconfig
+D:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.AssemblyInfoInputs.cache
+D:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.AssemblyInfo.vb
+D:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.vbproj.CoreCompileInputs.cache
+D:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.dll
+D:\THE GAME\THE GAME\obj\Debug\net6.0-windows\refint\THE GAME.dll
+D:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.pdb
+D:\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.genruntimeconfig.cache
+D:\THE GAME\THE GAME\obj\Debug\net6.0-windows\ref\THE GAME.dll
+D:\old stuff\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.exe
+D:\old stuff\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.deps.json
+D:\old stuff\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.runtimeconfig.json
+D:\old stuff\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.dll
+D:\old stuff\THE GAME\THE GAME\bin\Debug\net6.0-windows\THE GAME.pdb
+D:\old stuff\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE_GAME.MainGame.resources
+D:\old stuff\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE_GAME.Resources.resources
+D:\old stuff\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.vbproj.GenerateResource.cache
+D:\old stuff\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.GeneratedMSBuildEditorConfig.editorconfig
+D:\old stuff\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.AssemblyInfoInputs.cache
+D:\old stuff\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.AssemblyInfo.vb
+D:\old stuff\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.vbproj.CoreCompileInputs.cache
+D:\old stuff\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.dll
+D:\old stuff\THE GAME\THE GAME\obj\Debug\net6.0-windows\refint\THE GAME.dll
+D:\old stuff\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.pdb
+D:\old stuff\THE GAME\THE GAME\obj\Debug\net6.0-windows\THE GAME.genruntimeconfig.cache
+D:\old stuff\THE GAME\THE GAME\obj\Debug\net6.0-windows\ref\THE GAME.dll
